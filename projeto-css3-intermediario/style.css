@@ -1,0 +1,26 @@
+
+#principal{
+    border: 5px solid green;
+    background:rgba(0, 0, 0, 0.082);
+    float:left;
+}
+
+
+.conteudo{
+    border: 1px solid rgb(109, 51, 60);
+    width: 80vh;
+    padding: 20px 15px 5px 15px;
+    margin: 30px 5px 15px 50px;
+    background-color: bisque;
+    border-radius: 10px;
+    float:left;
+    }
+
+
+h1{
+    margin:5px;
+}
+
+.clear{
+    clear: left; /*Limpar o float do elemento*/
+}

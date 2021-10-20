@@ -1,0 +1,35 @@
+body{
+    background: #d2d2d1 url('../imagens/fundo.png ');/*volta uma pasta para a pasta imagens*/
+    font-family: 16px Arial, Helvetica, sans-serif;
+}
+
+#principal{
+    width: 900px;
+} 
+#menu{
+    background: #c5c5b2;
+    padding: 18px;  
+}
+a{
+    color: #4b566a;
+    text-decoration: none;
+    font-weight: bold;   /*deixar em negrito*/
+    padding: 5px;
+}
+.conteudo{
+    background-color: white;
+    padding: 10px;
+    margin: 5px;
+}
+
+.img-campanha{
+    border:10px solid #c3c3ae
+}
+h1{
+    color: #828271;
+    font-size: 1.2em;
+}
+h4{
+    text-align: center;
+    margin: 15px;
+}
