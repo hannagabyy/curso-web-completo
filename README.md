@@ -2,7 +2,7 @@
 Anotações  e codigos sobre o curso desenvolvimento web completo 
 
 <h2><a href="https://github.com/hannagabyy/curso-web-completo/tree/master/primeiro-projeto">Primeiro projeto</a><h2>
-  Neste primeiro projeto eu treinei a estrutura básica de um site só em html, organzado todo em tabelas. Não é o metódo ideal ,foi usado
+  Neste primeiro projeto eu treinei a estrutura básica de um site só em html, organizado todo em tabelas. Não é o metódo ideal ,foi usado
   Somente para fins didáticos<br>
   Fim o site de uma universidade com outras 2 páginas onde treino listas e formulário
   
